@@ -1,0 +1,6 @@
+[workstation]
+192.168.174.135 ansible_user=meklit
+
+[remote]
+192.168.174.136 ansible_user=meklit
+192.168.174.129 ansible_user=meklit

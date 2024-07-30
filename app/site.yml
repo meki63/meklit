@@ -1,0 +1,6 @@
+---
+- name: Install and configure Apache
+  hosts: remote
+  become: true
+  roles:
+    - apache

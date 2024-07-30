@@ -1,0 +1,11 @@
+---
+# defaults file for apache
+
+apache_port: 80
+#apache_service: httpd
+#apache_package: httpd
+apache_service: apache2
+apache_package: apache2
+
+
+
